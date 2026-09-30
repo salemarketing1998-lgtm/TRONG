@@ -1,0 +1,6 @@
+{
+  "name": "SOL OASIS - Boutique Tropical Homestay & Resort",
+  "description": "SOL OASIS - Modern tropical homestay with 13 private rooms, central swimming pool, 3,000m² lush garden, outdoor BBQ, billiards lounge, 24/7 reception and complimentary breakfast buffet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
